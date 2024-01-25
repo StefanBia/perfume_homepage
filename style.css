@@ -1,0 +1,16 @@
+.perfume-body{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7f53ae;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    
+}
